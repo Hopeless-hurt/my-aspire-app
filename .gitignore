@@ -1,0 +1,45 @@
+# Build and user-specific files
+[Bb]in/
+[Oo]bj/
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.log
+*.tmp
+*.cache
+*.pdb
+*.db
+*.db-shm
+*.db-wal
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+
+# Test results
+TestResults/
+*.trx
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Visual Studio / Rider generated files
+*.pidb
+*.svclog
+*.aps
+*.orig
+
+# Local env and secrets
+*.local.json
+appsettings.Local.json
+secrets.json
+.env
+.env.*
