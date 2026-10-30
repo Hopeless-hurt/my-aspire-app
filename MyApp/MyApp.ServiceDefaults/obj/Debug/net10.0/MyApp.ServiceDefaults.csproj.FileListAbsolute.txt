@@ -1,0 +1,12 @@
+C:\Users\zhanna21\Desktop\zxcxzczxc\MyApp\MyApp.ServiceDefaults\bin\Debug\net10.0\MyApp.ServiceDefaults.deps.json
+C:\Users\zhanna21\Desktop\zxcxzczxc\MyApp\MyApp.ServiceDefaults\bin\Debug\net10.0\MyApp.ServiceDefaults.dll
+C:\Users\zhanna21\Desktop\zxcxzczxc\MyApp\MyApp.ServiceDefaults\bin\Debug\net10.0\MyApp.ServiceDefaults.pdb
+C:\Users\zhanna21\Desktop\zxcxzczxc\MyApp\MyApp.ServiceDefaults\obj\Debug\net10.0\MyApp.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\zhanna21\Desktop\zxcxzczxc\MyApp\MyApp.ServiceDefaults\obj\Debug\net10.0\MyApp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhanna21\Desktop\zxcxzczxc\MyApp\MyApp.ServiceDefaults\obj\Debug\net10.0\MyApp.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\zhanna21\Desktop\zxcxzczxc\MyApp\MyApp.ServiceDefaults\obj\Debug\net10.0\MyApp.ServiceDefaults.AssemblyInfo.cs
+C:\Users\zhanna21\Desktop\zxcxzczxc\MyApp\MyApp.ServiceDefaults\obj\Debug\net10.0\MyApp.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\zhanna21\Desktop\zxcxzczxc\MyApp\MyApp.ServiceDefaults\obj\Debug\net10.0\MyApp.ServiceDefaults.dll
+C:\Users\zhanna21\Desktop\zxcxzczxc\MyApp\MyApp.ServiceDefaults\obj\Debug\net10.0\refint\MyApp.ServiceDefaults.dll
+C:\Users\zhanna21\Desktop\zxcxzczxc\MyApp\MyApp.ServiceDefaults\obj\Debug\net10.0\MyApp.ServiceDefaults.pdb
+C:\Users\zhanna21\Desktop\zxcxzczxc\MyApp\MyApp.ServiceDefaults\obj\Debug\net10.0\ref\MyApp.ServiceDefaults.dll
